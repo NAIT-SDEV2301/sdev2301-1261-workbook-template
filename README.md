@@ -17,7 +17,8 @@ Use your workbook for work that is **not submitted as a graded assignment**, inc
 - Your own experiments with concepts covered in class
 - Small projects created while learning or troubleshooting
 
-Do **not** place graded assignment projects in this repository.
+> [!WARNING]
+> Do **not** clone the course template repository directly. Create your own repository using **Use this template** first, and then clone your newly created repository.
 
 ## Create Your Workbook Repository
 
